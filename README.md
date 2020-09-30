@@ -1,5 +1,5 @@
 # Rainbow-Poem
-today is earth day.
+today is Earth Day.
 a repo for my poem
 ponies
 ponys
